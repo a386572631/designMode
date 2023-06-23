@@ -1,0 +1,5 @@
+server:
+  port: 18306
+spring:
+  application:
+    name: design-mode
